@@ -499,6 +499,7 @@ class HuaweiSwitchBackup:
         try:
             # 关闭分页
             chan.send("screen-length 0 temporary\n")
+            chan.send("screen-length disable\n")
             time.sleep(0.3)
             # 清空缓冲区
             while chan.recv_ready():
@@ -526,7 +527,8 @@ class HuaweiSwitchBackup:
                     time.sleep(0.5)
 
             # 提取设备信息
-            model_match = re.search(r'0\s+-\s+(\S+)\s+Present', config)
+            # model_match = re.search(r'0\s+-\s+(\S+)\s+Present', config)
+            model_match = re.search(r'(?im)^(?:H3C|HUAWEI)\s+([A-Za-z0-9][A-Za-z0-9\-]+).*?\buptime\b', config)
             name_match = re.search(r'sysname\s+(\S+)', config)
 
             model = model_match.group(1).strip() if model_match else "Unknown"

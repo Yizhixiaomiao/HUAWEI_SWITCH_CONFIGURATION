@@ -1599,3 +1599,37 @@ ValueError: too many values to unpack (expected 2)
 2025-12-04 17:53:56,976 - ERROR - 连接 10.3.2.22 失败: timed out
 2025-12-04 17:53:58,145 - ERROR - 连接 10.3.2.23 失败: timed out
 2025-12-04 17:54:03,671 - ERROR - 连接 10.3.2.25 失败: timed out
+2025-12-05 15:28:00,699 - INFO - 正在连接 10.3.1.147...
+2025-12-05 15:28:00,710 - INFO - Connected (version 2.0, client -)
+2025-12-05 15:28:08,723 - INFO - Authentication (password) successful!
+2025-12-05 15:28:17,553 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JJGCJ-D1B1-SW01__S5735S-L12P4S-A__10.3.1.147__20251205_152817.cfg
+2025-12-05 15:28:17,586 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 15:28:51,044 - INFO - 正在连接 10.3.3.1...
+2025-12-05 15:28:51,074 - INFO - Connected (version 2.0, client Comware-7.1.070)
+2025-12-05 15:28:51,101 - INFO - Authentication (password) successful!
+2025-12-05 15:28:59,966 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JF-Cunchuhuiju__Unknown__10.3.3.1__20251205_152859.cfg
+2025-12-05 15:31:54,917 - INFO - 正在连接 10.3.3.1...
+2025-12-05 15:31:54,947 - INFO - Connected (version 2.0, client Comware-7.1.070)
+2025-12-05 15:31:54,976 - INFO - Authentication (password) successful!
+2025-12-05 15:32:04,321 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JF-Cunchuhuiju__S6520X-54HF-EI__10.3.3.1__20251205_153204.cfg
+2025-12-05 15:33:20,661 - INFO - 正在连接 10.3.3.1...
+2025-12-05 15:33:20,661 - INFO - 正在连接 10.3.1.147...
+2025-12-05 15:33:20,671 - INFO - Connected (version 2.0, client -)
+2025-12-05 15:33:20,704 - INFO - Connected (version 2.0, client Comware-7.1.070)
+2025-12-05 15:33:20,737 - INFO - Authentication (password) successful!
+2025-12-05 15:33:28,772 - INFO - Authentication (password) successful!
+2025-12-05 15:33:30,081 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JF-Cunchuhuiju__S6520X-54HF-EI__10.3.3.1__20251205_153330.cfg
+2025-12-05 15:33:39,099 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JJGCJ-D1B1-SW01__S5735S-L12P4S-A__10.3.1.147__20251205_153339.cfg
+2025-12-05 15:33:39,272 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 15:35:41,888 - INFO - 正在连接 10.3.3.1...
+2025-12-05 15:35:41,888 - INFO - 正在连接 10.3.1.147...
+2025-12-05 15:35:41,906 - INFO - Connected (version 2.0, client Comware-7.1.070)
+2025-12-05 15:35:41,923 - INFO - Connected (version 2.0, client -)
+2025-12-05 15:35:41,956 - INFO - Authentication (password) successful!
+2025-12-05 15:35:50,059 - INFO - Authentication (password) successful!
+2025-12-05 15:35:50,803 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JF-Cunchuhuiju__S6520X-54HF-EI__10.3.3.1__20251205_153550.cfg
+2025-12-05 15:36:00,410 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JJGCJ-D1B1-SW01__S5735S-L12P4S-A__10.3.1.147__20251205_153600.cfg
+2025-12-05 15:36:00,451 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
