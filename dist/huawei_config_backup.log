@@ -407,3 +407,40 @@
 2025-12-05 16:34:08,549 - INFO - 正在连接 10.3.1.185...
 2025-12-05 16:34:08,550 - INFO - 10.3.1.150: 备份成功 (BeiLiao-FuFang)
 2025-12-05 16:34:08,556 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:34:09,683 - INFO - Authentication (password) successful!
+2025-12-05 16:34:09,761 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\SWZX1F-HJ-AS01__S5720-36C-PWR-EI-AC__10.3.1.154__20251205_163409.cfg
+2025-12-05 16:34:09,782 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:34:10,162 - INFO - 正在连接 10.3.1.186...
+2025-12-05 16:34:10,162 - INFO - 10.3.1.154: 备份成功 (SWZX1F-HJ-AS01)
+2025-12-05 16:34:10,187 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:34:11,523 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\SWZX2F-HJ-AS01__S5720-36C-PWR-EI-AC__10.3.1.155__20251205_163411.cfg
+2025-12-05 16:34:11,544 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:34:11,923 - INFO - 正在连接 10.3.1.189...
+2025-12-05 16:34:11,924 - INFO - 10.3.1.155: 备份成功 (SWZX2F-HJ-AS01)
+2025-12-05 16:34:11,948 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:34:14,776 - INFO - Authentication (password) successful!
+2025-12-05 16:34:16,671 - INFO - Authentication (password) successful!
+2025-12-05 16:34:22,703 - ERROR - 连接 10.3.1.183 失败: timed out
+2025-12-05 16:34:22,703 - INFO - 正在连接 10.3.1.193...
+2025-12-05 16:34:22,703 - INFO - 10.3.1.183: 连接失败
+2025-12-05 16:34:22,719 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:34:25,700 - INFO - Authentication (password) successful!
+2025-12-05 16:34:25,994 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\scl_1F_103__S5735S-L12P4S-A__10.3.1.185__20251205_163425.cfg
+2025-12-05 16:34:26,203 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:34:26,395 - INFO - 正在连接 10.3.1.195...
+2025-12-05 16:34:26,395 - INFO - 10.3.1.185: 备份成功 (scl_1F_103)
+2025-12-05 16:34:28,527 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\scl_3f_xibei1__S5720S-28X-SI-AC__10.3.1.182__20251205_163428.cfg
+2025-12-05 16:34:28,565 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:34:28,929 - INFO - 正在连接 10.3.1.196...
+2025-12-05 16:34:28,929 - INFO - 10.3.1.182: 备份成功 (scl_3f_xibei1)
+2025-12-05 16:34:28,974 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:34:29,109 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\SWZX2F-OA-SW01__Unknown__10.3.1.189__20251205_163429.cfg
+2025-12-05 16:34:29,148 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:34:29,510 - INFO - 正在连接 10.3.1.197...
+2025-12-05 16:34:29,510 - INFO - 10.3.1.189: 备份成功 (SWZX2F-OA-SW01)
+2025-12-05 16:34:29,527 - INFO - Connected (version 2.0, client -)
