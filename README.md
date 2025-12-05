@@ -18,3 +18,7 @@
 
 ### 4\.初次使用可能需要重新选定配置文件或者命令文件
 
+###
+
+### 5\.打包方法： pip install -r requirements.txt  pyinstaller --onefile --name "华为交换机配置同步工具" --noconsole switch_gui.py
+
