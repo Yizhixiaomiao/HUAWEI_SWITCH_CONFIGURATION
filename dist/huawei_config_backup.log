@@ -1,20 +1,409 @@
-2025-12-05 15:40:49,473 - INFO - 已加载IP列表文件: D:/Workspace/HUAWEI_SWITCH_CONFIGURATION/ip_list_test.txt
-2025-12-05 15:40:52,823 - INFO - 开始同步 2 台交换机的配置...
-2025-12-05 15:40:52,830 - INFO - 备份目录: D:/HUAWEI_SWITCH/ConfigBackups
-2025-12-05 15:40:52,830 - INFO - 正在连接 10.3.3.1...
-2025-12-05 15:40:52,831 - INFO - 正在连接 10.3.1.147...
-2025-12-05 15:40:52,860 - INFO - Connected (version 2.0, client -)
-2025-12-05 15:40:52,860 - INFO - Connected (version 2.0, client Comware-7.1.070)
-2025-12-05 15:40:52,928 - INFO - Authentication (password) successful!
-2025-12-05 15:41:00,894 - INFO - Authentication (password) successful!
-2025-12-05 15:41:01,768 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JF-Cunchuhuiju__S6520X-54HF-EI__10.3.3.1__20251205_154101.cfg
-2025-12-05 15:41:02,169 - INFO - 10.3.3.1: 备份成功 (JF-Cunchuhuiju)
-2025-12-05 15:41:10,718 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JJGCJ-D1B1-SW01__S5735S-L12P4S-A__10.3.1.147__20251205_154110.cfg
-2025-12-05 15:41:10,788 - INFO - Disconnect (code 2): The connection is closed by SSH server
+2025-12-05 16:24:05,048 - INFO - 已加载IP列表文件: D:/Workspace/HUAWEI_SWITCH_CONFIGURATION/ip_list.txt
+2025-12-05 16:24:10,316 - INFO - 开始同步 565 台交换机的配置...
+2025-12-05 16:24:10,320 - INFO - 备份目录: D:/HUAWEI_SWITCH/ConfigBackups
+2025-12-05 16:24:10,320 - INFO - 正在连接 10.3.1.30...
+2025-12-05 16:24:10,321 - INFO - 正在连接 10.3.3.1...
+2025-12-05 16:24:10,322 - INFO - 正在连接 10.3.1.28...
+2025-12-05 16:24:10,322 - INFO - 正在连接 10.3.1.26...
+2025-12-05 16:24:10,329 - INFO - 正在连接 10.3.1.21...
+2025-12-05 16:24:10,337 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:24:10,337 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:24:10,369 - INFO - Connected (version 2.0, client Comware-7.1.070)
+2025-12-05 16:24:10,401 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:24:10,421 - INFO - Connected (version 2.0, client Comware-7.1.070)
+2025-12-05 16:24:10,427 - INFO - Authentication (password) successful!
+2025-12-05 16:24:10,792 - INFO - Authentication (password) successful!
+2025-12-05 16:24:11,198 - INFO - Authentication (password) successful!
+2025-12-05 16:24:13,657 - INFO - Authentication (password) successful!
+2025-12-05 16:24:13,854 - INFO - Authentication (password) successful!
+2025-12-05 16:24:19,271 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JF-Cunchuhuiju__S6520X-54HF-EI__10.3.3.1__20251205_162419.cfg
+2025-12-05 16:24:19,673 - INFO - 正在连接 10.3.2.24...
+2025-12-05 16:24:19,673 - INFO - 10.3.3.1: 备份成功 (JF-Cunchuhuiju)
+2025-12-05 16:24:19,676 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:24:20,475 - INFO - Authentication (password) successful!
+2025-12-05 16:24:22,473 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JJGJF_Beiliao_DQCJ_JSF_HJ__S6730-S24X6Q__10.3.1.21__20251205_162422.cfg
+2025-12-05 16:24:22,658 - INFO - Disconnect (code 2): The connection is closed by SSH server
 
-2025-12-05 15:41:11,120 - INFO - 10.3.1.147: 备份成功 (JJGCJ-D1B1-SW01)
-2025-12-05 15:41:11,129 - INFO - 
-=== 同步结果摘要 ===
-2025-12-05 15:41:11,134 - INFO - 总计: 2 台设备
-2025-12-05 15:41:11,139 - INFO - 成功: 2 台
-2025-12-05 15:41:11,142 - INFO - 失败: 0 台
+2025-12-05 16:24:22,673 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JJGJF_QingLian_HJ__S6730-S24X6Q__10.3.1.28__20251205_162422.cfg
+2025-12-05 16:24:22,856 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:24:22,874 - INFO - 正在连接 10.3.1.199...
+2025-12-05 16:24:22,874 - INFO - 10.3.1.21: 备份成功 (JJGJF_Beiliao_DQCJ_JSF_HJ)
+2025-12-05 16:24:22,892 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:24:23,074 - INFO - 正在连接 10.205.1.254...
+2025-12-05 16:24:23,074 - INFO - 10.3.1.28: 备份成功 (JJGJF_QingLian_HJ)
+2025-12-05 16:24:23,136 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:24:23,711 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JF-POE__S5570S-54S-PWR-EI-A__10.3.1.30__20251205_162423.cfg
+2025-12-05 16:24:24,113 - INFO - 正在连接 10.50.1.101...
+2025-12-05 16:24:24,113 - INFO - 10.3.1.30: 备份成功 (JF-POE)
+2025-12-05 16:24:24,520 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JJGJF_TZCJ_HJ__S6730-S24X6Q__10.3.1.26__20251205_162424.cfg
+2025-12-05 16:24:24,529 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:24:24,921 - INFO - 正在连接 10.50.1.254...
+2025-12-05 16:24:24,922 - INFO - 10.3.1.26: 备份成功 (JJGJF_TZCJ_HJ)
+2025-12-05 16:24:25,009 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:24:25,729 - INFO - Auth banner: b'Authentication fail'
+2025-12-05 16:24:25,730 - INFO - Authentication (password) failed.
+2025-12-05 16:24:25,731 - ERROR - 连接 10.50.1.254 失败: Authentication failed.
+2025-12-05 16:24:25,731 - INFO - 正在连接 10.50.1.102...
+2025-12-05 16:24:25,731 - INFO - 10.50.1.254: 连接失败
+2025-12-05 16:24:25,797 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:24:26,325 - ERROR - 连接 10.50.1.101 失败: [Errno None] Unable to connect to port 22 on 10.50.1.101
+2025-12-05 16:24:26,325 - INFO - 正在连接 10.40.1.254...
+2025-12-05 16:24:26,325 - INFO - 10.50.1.101: 连接失败
+2025-12-05 16:24:26,356 - INFO - Connected (version 2.0, client Comware-7.1.070)
+2025-12-05 16:24:26,445 - INFO - Authentication (password) successful!
+2025-12-05 16:24:26,540 - INFO - Authentication (password) successful!
+2025-12-05 16:24:28,683 - INFO - Authentication (password) failed.
+2025-12-05 16:24:28,684 - ERROR - 连接 10.50.1.102 失败: Authentication failed.
+2025-12-05 16:24:28,684 - INFO - 正在连接 10.3.1.254...
+2025-12-05 16:24:28,684 - INFO - 10.50.1.102: 连接失败
+2025-12-05 16:24:28,699 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:24:30,309 - INFO - Authentication (password) successful!
+2025-12-05 16:24:31,060 - INFO - Authentication (password) failed.
+2025-12-05 16:24:31,060 - ERROR - 连接 10.3.1.254 失败: Authentication failed.
+2025-12-05 16:24:31,060 - INFO - 正在连接 10.3.1.1...
+2025-12-05 16:24:31,060 - INFO - 10.3.1.254: 连接失败
+2025-12-05 16:24:31,064 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:24:32,030 - INFO - Authentication (password) successful!
+2025-12-05 16:24:33,297 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JJGJF_SLCJ_HJ__S6730-S24X6Q__10.3.2.24__20251205_162433.cfg
+2025-12-05 16:24:33,332 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:24:33,698 - INFO - 10.3.2.24: 备份成功 (JJGJF_SLCJ_HJ)
+2025-12-05 16:24:35,820 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\ZZWH-BGL-Core-HX01__S7506X-G__10.40.1.254__20251205_162435.cfg
+2025-12-05 16:24:35,857 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JJGLF_JJGFF_JJGCJ_JXL_HJ__S6730-S24X6Q__10.3.1.199__20251205_162435.cfg
+2025-12-05 16:24:35,928 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:24:40,861 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\WH-BGL-3F-qianzhi__S5720-32X-EI-AC__10.3.1.1__20251205_162440.cfg
+2025-12-05 16:24:40,878 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:24:47,722 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\HUAWEI__S5735S-L48T4X-A__10.205.1.254__20251205_162447.cfg
+2025-12-05 16:24:47,788 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:30:24,128 - INFO - 已加载IP列表文件: D:/Workspace/HUAWEI_SWITCH_CONFIGURATION/ip_list.txt
+2025-12-05 16:30:29,678 - INFO - 开始同步 648 台交换机的配置...
+2025-12-05 16:30:29,683 - INFO - 备份目录: D:/HUAWEI_SWITCH/ConfigBackups
+2025-12-05 16:30:29,684 - INFO - 正在连接 10.199.199.253...
+2025-12-05 16:30:29,684 - INFO - 正在连接 10.200.1.254...
+2025-12-05 16:30:29,685 - INFO - 正在连接 10.205.1.254...
+2025-12-05 16:30:29,686 - INFO - 正在连接 10.3.1.1...
+2025-12-05 16:30:29,686 - INFO - 正在连接 10.3.1.101...
+2025-12-05 16:30:29,711 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:30:29,729 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:30:29,765 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:30:29,766 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:30:30,893 - INFO - Authentication (password) successful!
+2025-12-05 16:30:36,827 - INFO - Authentication (password) successful!
+2025-12-05 16:30:39,712 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\WH-BGL-3F-qianzhi__S5720-32X-EI-AC__10.3.1.1__20251205_163039.cfg
+2025-12-05 16:30:39,726 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:30:40,112 - INFO - 正在连接 10.3.1.102...
+2025-12-05 16:30:40,112 - INFO - 10.3.1.1: 备份成功 (WH-BGL-3F-qianzhi)
+2025-12-05 16:30:40,131 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:30:44,735 - ERROR - 连接 10.199.199.253 失败: timed out
+2025-12-05 16:30:44,737 - INFO - 正在连接 10.3.1.103...
+2025-12-05 16:30:44,738 - INFO - 10.199.199.253: 连接失败
+2025-12-05 16:30:44,765 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:30:44,927 - INFO - Authentication (password) failed.
+2025-12-05 16:30:44,927 - ERROR - 连接 10.200.1.254 失败: Authentication failed.
+2025-12-05 16:30:44,927 - INFO - 正在连接 10.3.1.104...
+2025-12-05 16:30:44,927 - INFO - 10.200.1.254: 连接失败
+2025-12-05 16:30:44,951 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:30:45,220 - INFO - Authentication (password) successful!
+2025-12-05 16:30:51,241 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\HUAWEI__S5735S-L48T4X-A__10.205.1.254__20251205_163051.cfg
+2025-12-05 16:30:51,315 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:30:51,642 - INFO - 正在连接 10.3.1.105...
+2025-12-05 16:30:51,642 - INFO - 10.205.1.254: 备份成功 (HUAWEI)
+2025-12-05 16:30:51,662 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:30:54,826 - INFO - Authentication (password) successful!
+2025-12-05 16:30:59,488 - INFO - Authentication (password) successful!
+2025-12-05 16:30:59,870 - INFO - Authentication (password) successful!
+2025-12-05 16:31:00,060 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JJGFSL2F-N1-AS01__S5720S-52X-LI-AC__10.3.1.101__20251205_163100.cfg
+2025-12-05 16:31:00,148 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:31:00,461 - INFO - 正在连接 10.3.1.106...
+2025-12-05 16:31:00,461 - INFO - 10.3.1.101: 备份成功 (JJGFSL2F-N1-AS01)
+2025-12-05 16:31:00,488 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:31:06,667 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JJGFSL2F-B1-SW01__S5720-28X-LI-AC__10.3.1.102__20251205_163106.cfg
+2025-12-05 16:31:06,704 - INFO - Authentication (password) successful!
+2025-12-05 16:31:06,727 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:31:07,068 - INFO - 正在连接 10.3.1.107...
+2025-12-05 16:31:07,068 - INFO - 10.3.1.102: 备份成功 (JJGFSL2F-B1-SW01)
+2025-12-05 16:31:07,084 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:31:09,054 - INFO - Authentication (password) successful!
+2025-12-05 16:31:14,210 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JJGFSL3F-B1-AS01__S5720S-52X-LI-AC__10.3.1.104__20251205_163114.cfg
+2025-12-05 16:31:14,285 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:31:14,338 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JJGFSL2F-B1-SW02__S5720S-28P-PWR-LI-AC__10.3.1.103__20251205_163114.cfg
+2025-12-05 16:31:14,524 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:31:14,611 - INFO - 正在连接 10.3.1.108...
+2025-12-05 16:31:14,611 - INFO - 10.3.1.104: 备份成功 (JJGFSL3F-B1-AS01)
+2025-12-05 16:31:14,634 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:31:14,739 - INFO - 正在连接 10.3.1.109...
+2025-12-05 16:31:14,739 - INFO - 10.3.1.103: 备份成功 (JJGFSL2F-B1-SW02)
+2025-12-05 16:31:14,758 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:31:21,043 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JJGFSL3F-N1-AS01__S5720S-52X-LI-AC__10.3.1.105__20251205_163121.cfg
+2025-12-05 16:31:21,278 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:31:21,444 - INFO - 正在连接 10.3.1.110...
+2025-12-05 16:31:21,444 - INFO - 10.3.1.105: 备份成功 (JJGFSL3F-N1-AS01)
+2025-12-05 16:31:21,475 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:31:21,666 - INFO - Authentication (password) successful!
+2025-12-05 16:31:23,159 - INFO - Authentication (password) successful!
+2025-12-05 16:31:23,383 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\CTyinkongshi__S5720-36C-PWR-EI-AC__10.3.1.106__20251205_163123.cfg
+2025-12-05 16:31:23,406 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:31:23,624 - INFO - Authentication (password) successful!
+2025-12-05 16:31:23,784 - INFO - 正在连接 10.3.1.111...
+2025-12-05 16:31:23,784 - INFO - 10.3.1.106: 备份成功 (CTyinkongshi)
+2025-12-05 16:31:23,803 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:31:30,462 - ERROR - Socket exception: 远程主机强迫关闭了一个现有的连接。 (10054)
+2025-12-05 16:31:34,518 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\CanTing2__S5720-28X-PWR-LI-AC__10.3.1.107__20251205_163134.cfg
+2025-12-05 16:31:34,701 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:31:34,919 - INFO - 正在连接 10.3.1.114...
+2025-12-05 16:31:34,919 - INFO - 10.3.1.107: 备份成功 (CanTing2)
+2025-12-05 16:31:34,946 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:31:36,332 - INFO - Authentication (password) successful!
+2025-12-05 16:31:37,479 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\1_SuSheLou2__S5720-36C-PWR-EI-AC__10.3.1.109__20251205_163137.cfg
+2025-12-05 16:31:37,505 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:31:37,879 - INFO - 正在连接 10.3.1.115...
+2025-12-05 16:31:37,880 - INFO - 10.3.1.109: 备份成功 (1#SuSheLou2)
+2025-12-05 16:31:37,908 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:31:37,990 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\1_SuSheLou1__S5720-36C-PWR-EI-AC__10.3.1.108__20251205_163137.cfg
+2025-12-05 16:31:38,012 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:31:38,391 - INFO - 正在连接 10.3.1.116...
+2025-12-05 16:31:38,391 - INFO - 10.3.1.108: 备份成功 (1#SuSheLou1)
+2025-12-05 16:31:38,451 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:31:39,064 - INFO - Authentication (password) successful!
+2025-12-05 16:31:49,173 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\2_SuSheLou1__S5720-28X-PWR-LI-AC__10.3.1.110__20251205_163149.cfg
+2025-12-05 16:31:49,313 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:31:49,574 - INFO - 正在连接 10.3.1.117...
+2025-12-05 16:31:49,575 - INFO - 10.3.1.110: 备份成功 (2#SuSheLou1)
+2025-12-05 16:31:49,607 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:31:49,887 - INFO - Authentication (password) successful!
+2025-12-05 16:31:51,900 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\2_SuSheLou2__S5720-28X-PWR-LI-AC__10.3.1.111__20251205_163151.cfg
+2025-12-05 16:31:51,980 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:31:52,301 - INFO - 正在连接 10.3.1.120...
+2025-12-05 16:31:52,301 - INFO - 10.3.1.111: 备份成功 (2#SuSheLou2)
+2025-12-05 16:31:52,327 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:31:52,694 - INFO - Authentication (password) successful!
+2025-12-05 16:31:53,140 - INFO - Authentication (password) successful!
+2025-12-05 16:32:00,630 - INFO - Authentication (password) successful!
+2025-12-05 16:32:02,302 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\2_SuSheLou1-MenSuo__S5720-28X-PWR-LI-AC__10.3.1.114__20251205_163202.cfg
+2025-12-05 16:32:02,359 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:32:02,703 - INFO - 正在连接 10.3.1.121...
+2025-12-05 16:32:02,703 - INFO - 10.3.1.114: 备份成功 (2#SuSheLou1-MenSuo)
+2025-12-05 16:32:02,720 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:32:04,210 - INFO - Authentication (password) successful!
+2025-12-05 16:32:05,560 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\2_SuSheLou2-MenSuo__S5720-28X-PWR-LI-AC__10.3.1.115__20251205_163205.cfg
+2025-12-05 16:32:05,607 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:32:05,961 - INFO - 正在连接 10.3.1.122...
+2025-12-05 16:32:05,961 - INFO - 10.3.1.115: 备份成功 (2#SuSheLou2-MenSuo)
+2025-12-05 16:32:05,979 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:32:07,478 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\ZhiNengCheKu1__S5720-28X-PWR-LI-AC__10.3.1.116__20251205_163207.cfg
+2025-12-05 16:32:07,546 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:32:07,879 - INFO - 正在连接 10.3.1.123...
+2025-12-05 16:32:07,879 - INFO - 10.3.1.116: 备份成功 (ZhiNengCheKu1)
+2025-12-05 16:32:07,903 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:32:10,460 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\BeidaMen-Xi__S5735S-L12P4S-A__10.3.1.120__20251205_163210.cfg
+2025-12-05 16:32:10,613 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:32:10,860 - INFO - 正在连接 10.3.1.124...
+2025-12-05 16:32:10,860 - INFO - 10.3.1.120: 备份成功 (BeidaMen-Xi)
+2025-12-05 16:32:10,881 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:32:11,182 - INFO - Authentication (password) successful!
+2025-12-05 16:32:14,541 - INFO - Authentication (password) successful!
+2025-12-05 16:32:16,496 - INFO - Authentication (password) successful!
+2025-12-05 16:32:19,078 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\ZhiNengCheKu2__S5720-28X-PWR-LI-AC__10.3.1.117__20251205_163219.cfg
+2025-12-05 16:32:19,268 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:32:19,478 - INFO - 正在连接 10.3.1.125...
+2025-12-05 16:32:19,478 - INFO - 10.3.1.117: 备份成功 (ZhiNengCheKu2)
+2025-12-05 16:32:19,504 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:32:19,573 - INFO - Authentication (password) successful!
+2025-12-05 16:32:26,548 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\DQJP-X1-SW01__S5720-36C-PWR-EI-AC__10.3.1.121__20251205_163226.cfg
+2025-12-05 16:32:26,583 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:32:26,949 - INFO - 正在连接 10.3.1.126...
+2025-12-05 16:32:26,949 - INFO - 10.3.1.121: 备份成功 (DQJP-X1-SW01)
+2025-12-05 16:32:26,967 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:32:28,021 - INFO - Authentication (password) successful!
+2025-12-05 16:32:28,868 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\DQJP-X2-SW01__S5720-36C-PWR-EI-AC__10.3.1.122__20251205_163228.cfg
+2025-12-05 16:32:28,889 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:32:29,270 - INFO - 正在连接 10.3.1.127...
+2025-12-05 16:32:29,270 - INFO - 10.3.1.122: 备份成功 (DQJP-X2-SW01)
+2025-12-05 16:32:29,287 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:32:30,831 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\DQJP-X3-SW01__S5720-36C-PWR-EI-AC__10.3.1.123__20251205_163230.cfg
+2025-12-05 16:32:30,851 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:32:31,231 - INFO - 正在连接 10.3.1.128...
+2025-12-05 16:32:31,232 - INFO - 10.3.1.123: 备份成功 (DQJP-X3-SW01)
+2025-12-05 16:32:31,253 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:32:33,424 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\DQJP-Z1-SW01__S5720-36C-PWR-EI-AC__10.3.1.124__20251205_163233.cfg
+2025-12-05 16:32:33,470 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:32:33,825 - INFO - 正在连接 10.3.1.129...
+2025-12-05 16:32:33,825 - INFO - 10.3.1.124: 备份成功 (DQJP-Z1-SW01)
+2025-12-05 16:32:33,852 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:32:35,620 - INFO - Authentication (password) successful!
+2025-12-05 16:32:37,813 - INFO - Authentication (password) successful!
+2025-12-05 16:32:39,119 - INFO - Authentication (password) successful!
+2025-12-05 16:32:41,785 - INFO - Authentication (password) successful!
+2025-12-05 16:32:41,861 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\DQJP-D3-SW01__S5720-36C-PWR-EI-AC__10.3.1.125__20251205_163241.cfg
+2025-12-05 16:32:41,882 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:32:42,262 - INFO - 正在连接 10.3.1.131...
+2025-12-05 16:32:42,262 - INFO - 10.3.1.125: 备份成功 (DQJP-D3-SW01)
+2025-12-05 16:32:42,313 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:32:49,448 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\WeiQiangXiJianKong1__S5735S-L12P4S-A__10.3.1.128__20251205_163249.cfg
+2025-12-05 16:32:49,449 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\DQJP-D2-SW01__S5720-36C-PWR-EI-AC__10.3.1.126__20251205_163249.cfg
+2025-12-05 16:32:49,471 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:32:49,652 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:32:49,849 - INFO - 正在连接 10.3.1.132...
+2025-12-05 16:32:49,849 - INFO - 10.3.1.128: 备份成功 (WeiQiangXiJianKong1)
+2025-12-05 16:32:49,850 - INFO - 正在连接 10.3.1.134...
+2025-12-05 16:32:49,860 - INFO - 10.3.1.126: 备份成功 (DQJP-D2-SW01)
+2025-12-05 16:32:49,876 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:32:49,910 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:32:50,524 - INFO - Authentication (password) successful!
+2025-12-05 16:32:51,612 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\WeiQiangBeiJianKong3__S5735S-L12P4S-A__10.3.1.129__20251205_163251.cfg
+2025-12-05 16:32:51,641 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\DQJP-D1-SW01__S5720-36C-PWR-EI-AC__10.3.1.127__20251205_163251.cfg
+2025-12-05 16:32:51,662 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:32:51,807 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:32:52,013 - INFO - 正在连接 10.3.1.135...
+2025-12-05 16:32:52,013 - INFO - 10.3.1.129: 备份成功 (WeiQiangBeiJianKong3)
+2025-12-05 16:32:52,036 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:32:52,070 - INFO - 正在连接 10.3.1.136...
+2025-12-05 16:32:52,070 - INFO - 10.3.1.127: 备份成功 (DQJP-D1-SW01)
+2025-12-05 16:32:52,079 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:32:57,817 - INFO - Authentication (password) successful!
+2025-12-05 16:32:57,859 - INFO - Authentication (password) successful!
+2025-12-05 16:32:59,990 - INFO - Authentication (password) successful!
+2025-12-05 16:33:00,046 - INFO - Authentication (password) successful!
+2025-12-05 16:33:00,382 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\WeiQiangBeiJianKong1__S5735S-L12P4S-A__10.3.1.131__20251205_163300.cfg
+2025-12-05 16:33:00,496 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:33:00,783 - INFO - 正在连接 10.3.1.137...
+2025-12-05 16:33:00,783 - INFO - 10.3.1.131: 备份成功 (WeiQiangBeiJianKong1)
+2025-12-05 16:33:00,803 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:33:07,170 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\WeiQiangBeigongchenghou__S5735S-L12P4S-A__10.3.1.132__20251205_163307.cfg
+2025-12-05 16:33:07,193 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:33:07,571 - INFO - 正在连接 10.3.1.138...
+2025-12-05 16:33:07,571 - INFO - 10.3.1.132: 备份成功 (WeiQiangBeigongchenghou)
+2025-12-05 16:33:07,602 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:33:07,688 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\WeiQiangBeiJianKong2__S5735S-L12P4S-A__10.3.1.134__20251205_163307.cfg
+2025-12-05 16:33:07,711 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:33:08,089 - INFO - 正在连接 10.3.1.139...
+2025-12-05 16:33:08,089 - INFO - 10.3.1.134: 备份成功 (WeiQiangBeiJianKong2)
+2025-12-05 16:33:08,113 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:33:08,942 - INFO - Authentication (password) successful!
+2025-12-05 16:33:09,319 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\WeiQiangXiJianKong2__S5735S-L12P4S-A__10.3.1.135__20251205_163309.cfg
+2025-12-05 16:33:09,401 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:33:09,720 - INFO - 正在连接 10.3.1.140...
+2025-12-05 16:33:09,720 - INFO - 10.3.1.135: 备份成功 (WeiQiangXiJianKong2)
+2025-12-05 16:33:09,748 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:33:09,870 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\BeidaMen-Dong__S5735S-L12P4S-A__10.3.1.136__20251205_163309.cfg
+2025-12-05 16:33:09,949 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:33:10,270 - INFO - 正在连接 10.3.1.141...
+2025-12-05 16:33:10,271 - INFO - 10.3.1.136: 备份成功 (BeidaMen-Dong)
+2025-12-05 16:33:10,287 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:33:15,478 - INFO - Authentication (password) successful!
+2025-12-05 16:33:16,282 - INFO - Authentication (password) successful!
+2025-12-05 16:33:18,033 - INFO - Authentication (password) successful!
+2025-12-05 16:33:18,479 - INFO - Authentication (password) successful!
+2025-12-05 16:33:18,795 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\SuSheLouJianKong1__S5735S-L12P4S-A__10.3.1.137__20251205_163318.cfg
+2025-12-05 16:33:18,908 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:33:19,195 - INFO - 正在连接 10.3.1.142...
+2025-12-05 16:33:19,195 - INFO - 10.3.1.137: 备份成功 (SuSheLouJianKong1)
+2025-12-05 16:33:19,209 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:33:25,307 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\SuSheLouJianKong2__S5735S-L12P4S-A__10.3.1.138__20251205_163325.cfg
+2025-12-05 16:33:25,411 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:33:25,613 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\SuSheLouJianKong3__S5735S-L12P4S-A__10.3.1.139__20251205_163325.cfg
+2025-12-05 16:33:25,665 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:33:25,708 - INFO - 正在连接 10.3.1.145...
+2025-12-05 16:33:25,708 - INFO - 10.3.1.138: 备份成功 (SuSheLouJianKong2)
+2025-12-05 16:33:25,725 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:33:26,014 - INFO - 正在连接 10.3.1.146...
+2025-12-05 16:33:26,015 - INFO - 10.3.1.139: 备份成功 (SuSheLouJianKong3)
+2025-12-05 16:33:26,036 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:33:27,868 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\SuSheLouJianKong4__S5735S-L12P4S-A__10.3.1.140__20251205_163327.cfg
+2025-12-05 16:33:27,947 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:33:28,269 - INFO - 正在连接 10.3.1.147...
+2025-12-05 16:33:28,269 - INFO - 10.3.1.140: 备份成功 (SuSheLouJianKong4)
+2025-12-05 16:33:28,295 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:33:28,304 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\CanTing2F__S5735S-L12P4S-A__10.3.1.141__20251205_163328.cfg
+2025-12-05 16:33:28,480 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:33:28,706 - INFO - 正在连接 10.3.1.149...
+2025-12-05 16:33:28,706 - INFO - 10.3.1.141: 备份成功 (CanTing2F)
+2025-12-05 16:33:28,729 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:33:34,041 - INFO - Authentication (password) successful!
+2025-12-05 16:33:34,290 - INFO - Authentication (password) successful!
+2025-12-05 16:33:36,289 - INFO - Authentication (password) successful!
+2025-12-05 16:33:40,265 - INFO - Authentication (password) successful!
+2025-12-05 16:33:41,396 - INFO - Authentication (password) successful!
+2025-12-05 16:33:44,380 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\canting1_2__S5735S-L12P4S-A__10.3.1.146__20251205_163344.cfg
+2025-12-05 16:33:44,483 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:33:44,780 - INFO - 正在连接 10.3.1.150...
+2025-12-05 16:33:44,781 - INFO - 10.3.1.146: 备份成功 (canting1_2)
+2025-12-05 16:33:44,799 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:33:46,132 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JJGCJ-D1B1-SW01__S5735S-L12P4S-A__10.3.1.147__20251205_163346.cfg
+2025-12-05 16:33:46,237 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:33:46,532 - INFO - 正在连接 10.3.1.154...
+2025-12-05 16:33:46,532 - INFO - 10.3.1.147: 备份成功 (JJGCJ-D1B1-SW01)
+2025-12-05 16:33:46,560 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:33:48,128 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\canting3lou__S5720-28X-PWR-LI-AC__10.3.1.142__20251205_163348.cfg
+2025-12-05 16:33:48,324 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:33:48,529 - INFO - 正在连接 10.3.1.155...
+2025-12-05 16:33:48,529 - INFO - 10.3.1.142: 备份成功 (canting3lou)
+2025-12-05 16:33:48,547 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:33:52,280 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\huanbao__S5735-L8P4S-A1__10.3.1.149__20251205_163352.cfg
+2025-12-05 16:33:52,531 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:33:52,681 - INFO - 正在连接 10.3.1.166...
+2025-12-05 16:33:52,681 - INFO - 10.3.1.149: 备份成功 (huanbao)
+2025-12-05 16:33:52,817 - INFO - Authentication (password) successful!
+2025-12-05 16:33:54,607 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JJGFSL1F-103JKS-SW01__S5720S-28X-PWR-LI-AC__10.3.1.145__20251205_163354.cfg
+2025-12-05 16:33:54,780 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:33:54,928 - INFO - Authentication (password) successful!
+2025-12-05 16:33:55,008 - INFO - 正在连接 10.3.1.182...
+2025-12-05 16:33:55,008 - INFO - 10.3.1.145: 备份成功 (JJGFSL1F-103JKS-SW01)
+2025-12-05 16:33:55,030 - INFO - Connected (version 2.0, client -)
+2025-12-05 16:33:57,195 - INFO - Authentication (password) successful!
+2025-12-05 16:34:07,690 - ERROR - 连接 10.3.1.166 失败: timed out
+2025-12-05 16:34:07,690 - INFO - 正在连接 10.3.1.183...
+2025-12-05 16:34:07,691 - INFO - 10.3.1.166: 连接失败
+2025-12-05 16:34:08,148 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\BeiLiao-FuFang__S5735S-L48T4X-A__10.3.1.150__20251205_163408.cfg
+2025-12-05 16:34:08,167 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 16:34:08,549 - INFO - 正在连接 10.3.1.185...
+2025-12-05 16:34:08,550 - INFO - 10.3.1.150: 备份成功 (BeiLiao-FuFang)
+2025-12-05 16:34:08,556 - INFO - Connected (version 2.0, client -)
