@@ -1,0 +1,39 @@
+2025-12-05 08:57:40,441 - INFO - 已加载IP列表文件: D:/Workspace/HUAWEI_SWITCH_CONFIGURATION/ip_list_test.txt
+2025-12-05 09:04:05,565 - INFO - 开始同步 1 台交换机的配置...
+2025-12-05 09:04:05,570 - INFO - 备份目录: D:/HUAWEI_SWITCH/ConfigBackups
+2025-12-05 09:04:05,571 - INFO - 正在连接 10.3.1.147...
+2025-12-05 09:04:05,669 - INFO - Connected (version 2.0, client -)
+2025-12-05 09:04:13,648 - INFO - Authentication (password) successful!
+2025-12-05 09:04:22,976 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JJGCJ-D1B1-SW01__S5735S-L12P4S-A__10.3.1.147__20251205_090422.cfg
+2025-12-05 09:04:23,089 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 09:04:23,378 - INFO - 10.3.1.147: 备份成功 (JJGCJ-D1B1-SW01)
+2025-12-05 09:04:23,514 - INFO - 
+=== 同步结果摘要 ===
+2025-12-05 09:04:23,525 - INFO - 总计: 1 台设备
+2025-12-05 09:04:23,532 - INFO - 成功: 1 台
+2025-12-05 09:04:23,542 - INFO - 失败: 0 台
+2025-12-05 09:06:41,358 - INFO - 开始同步 1 台交换机的配置...
+2025-12-05 09:06:41,360 - INFO - 备份目录: D:/HUAWEI_SWITCH/ConfigBackups
+2025-12-05 09:06:41,360 - INFO - 正在连接 10.3.1.147...
+2025-12-05 09:06:41,384 - INFO - Connected (version 2.0, client -)
+2025-12-05 09:06:49,446 - INFO - Authentication (password) successful!
+2025-12-05 09:06:58,772 - INFO - 配置已保存到: D:/HUAWEI_SWITCH/ConfigBackups\JJGCJ-D1B1-SW01__S5735S-L12P4S-A__10.3.1.147__20251205_090658.cfg
+2025-12-05 09:06:58,838 - INFO - Disconnect (code 2): The connection is closed by SSH server
+
+2025-12-05 09:06:59,173 - INFO - 10.3.1.147: 备份成功 (JJGCJ-D1B1-SW01)
+2025-12-05 09:06:59,179 - INFO - 
+=== 同步结果摘要 ===
+2025-12-05 09:06:59,184 - INFO - 总计: 1 台设备
+2025-12-05 09:06:59,189 - INFO - 成功: 1 台
+2025-12-05 09:06:59,194 - INFO - 失败: 0 台
+2025-12-05 09:08:03,203 - INFO - 开始生成配置表格...
+2025-12-05 09:08:03,211 - INFO - 找到 1 个.cfg文件，正在解析...
+2025-12-05 09:08:03,219 - INFO - 已解析: JJGCJ-D1B1-SW01__S5735S-L12P4S-A__10.3.1.147__20251205_090658.cfg
+2025-12-05 09:08:03,227 - INFO - 结果已保存到 D:/Workspace/HUAWEI_SWITCH_CONFIGURATION/1.csv (共 1 条记录)
+2025-12-05 09:08:03,232 - INFO - 配置表格已保存到: D:/Workspace/HUAWEI_SWITCH_CONFIGURATION/1.csv
+2025-12-05 09:10:07,733 - INFO - 开始生成配置表格...
+2025-12-05 09:10:07,741 - INFO - 找到 1 个.cfg文件，正在解析...
+2025-12-05 09:10:07,744 - INFO - 已解析: JJGCJ-D1B1-SW01__S5735S-L12P4S-A__10.3.1.147__20251205_090658.cfg
+2025-12-05 09:10:07,754 - INFO - 结果已保存到 D:/Workspace/HUAWEI_SWITCH_CONFIGURATION/2.csv (共 1 条记录)
+2025-12-05 09:10:07,758 - INFO - 配置表格已保存到: D:/Workspace/HUAWEI_SWITCH_CONFIGURATION/2.csv
