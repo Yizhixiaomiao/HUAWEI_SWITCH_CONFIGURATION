@@ -3,5 +3,3 @@ dis cu
 dis int b
 dis lldp n
 dis version
-\n
-q
